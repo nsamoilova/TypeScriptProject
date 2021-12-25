@@ -1,0 +1,26 @@
+.menuItem{
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    display: inline-block;
+    margin-right: 30px;
+    font-family: Arial,sans-serif;
+    cursor: pointer;
+    transition: color 1.0s linear;
+    opacity: 0.3s ease-in-out;
+    text-decoration: none;
+
+}
+
+
+.active {
+    color:#fbdc0c
+}
+
+.menuItem:hover {
+    border-bottom: 1px solid #fbdc0c;
+    box-shadow: inset 0px -1px 0px 0px #fbdc0c;
+    transition: all 0.3s linear;
+}
+
+
