@@ -14,4 +14,4 @@
         "redux_main/*": ["./src/redux/*"]
       }
     }
-}
+ }
